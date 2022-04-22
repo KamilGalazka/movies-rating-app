@@ -1,24 +1,8 @@
-# vue-db
+# MOVIES-RATING-APP
 
-## Project setup
-```
-npm install
-```
+### General info
+You can add movie title, director name, production year and your rating.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Technologies:
+- Vue.js 3
+- Firebase
